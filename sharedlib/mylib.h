@@ -1,0 +1,1 @@
+int* mymethod(int, int*);

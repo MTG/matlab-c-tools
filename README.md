@@ -6,6 +6,7 @@ C programs from Matlab.
 
 There are currently 3 tutorials:
 
-sharedlib: calling shared libraries
-mex: writing matlab functions in C
-essentia: calling essentia from matlab
+- [`sharedlib`](sharedlib/README.md): calling shared libraries
+- [`mex`](): writing matlab functions in C
+- [`essentia`](essentia/README.md): calling essentia from matlab
+- 
